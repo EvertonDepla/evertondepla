@@ -14,7 +14,7 @@ Me chamo Everton Deplá, sou um programador Front End, atualmente estou aprenden
 <a href="https://www.instagram.com/everton_depla_dutra/">
 <img align="left" alt="icone-instagram" width="30px" src="https://w7.pngwing.com/pngs/681/55/png-transparent-camera-instagram-social-media-instagram-logo-social-media-circle-icon.png" />
 </a>
-  <a href="https://www.linkedin.com/in/everton-deplá-dutra-6345001b7/">
+  <a href=https://www.linkedin.com/in/everton-deplá/">
 <img align="left" alt="icone-linkedin" width="30px" src="https://png.pngtree.com/element_our/png/20180827/linkedin-social-media-icon-png_71812.jpg" />
 </a>
 <p>

@@ -23,4 +23,4 @@ Me chamo Everton Deplá, sou um programador Front End, atualmente estou aprenden
   
 [![Everton stats](https://github-readme-stats.vercel.app/api?username=evertondepla)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertondepla)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertondepla&layout=donut)](https://github.com/anuraghazra/github-readme-stats)

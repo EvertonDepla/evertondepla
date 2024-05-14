@@ -17,6 +17,7 @@ atualmente estou aprendendo e criando projetos com:
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" width="100px" height="32px" alt="Git-logo"/>
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" width="100px" height="32px" alt="Node-logo"/>
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width="100px" height="32px" alt="Bootstrap-logo"/>
+   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="100px" height="32px" alt="Java-logo"/>
 </div>
 <br> <br>
 <div align="center">

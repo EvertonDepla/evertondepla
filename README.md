@@ -1,6 +1,6 @@
 ### Olá pessoal 😳
 
-Me chamo Everton tenho 23 anos estudo programação a 6 meses e estou em transição de carreira para área da tecnologia trabalhando como Full Stack!
+Me chamo Everton tenho 23 anos estudo programação a 8 meses e estou em transição de carreira para área da tecnologia trabalhando como Full Stack!
 
 Atualmente estou estudando pelo DevClub uma formação de programadores Full Stack, cursando o segundo trimestre como Tecnólogo em análise e desenvolvimento de sistemas pela Descomplica e estudando Java e Angular na DIO!
 

@@ -1,8 +1,8 @@
-### Olá pessoal 😳
+👋 Olá! Sou Everton, apaixonado por tecnologia e programação, tenho 23 anos e atualmente estou em transição de carreira para a área de tecnologia, focando em desenvolvimento Full Stack.
 
-Me chamo Everton tenho 23 anos estudo programação a 8 meses e estou em transição de carreira para área da tecnologia trabalhando como Full Stack!
+🚀 Tenho me dedicado intensamente aos estudos de programação nos últimos 10 meses, onde estou em uma formação completa de programadores Full Stack pelo DevClub. Paralelamente, estou cursando o terceiro trimestre como Tecnólogo em Análise e Desenvolvimento de Sistemas pela Descomplica e aprimorando meus conhecimentos em Java e Angular através da DIO.
 
-Atualmente estou estudando pelo DevClub uma formação de programadores Full Stack, cursando o segundo trimestre como Tecnólogo em análise e desenvolvimento de sistemas pela Descomplica e estudando Java e Angular na DIO!
+📈 Estou sempre buscando oportunidades de aprender, colaborar e resolver problemas complexos. Meu objetivo é crescer como desenvolvedor Full Stack, aplicando minhas habilidades para entregar soluções robustas e inovadoras.
 
 atualmente estou aprendendo e criando projetos com:
 <br>
